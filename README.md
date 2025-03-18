@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto | ALURA LATAM - Oracle ONE
 
-![Badge en Desarrollo](https://img.shields.io/badge/status-en%20desarrollo-green)
+![Badge en Desarrollo](https://img.shields.io/badge/status-%20completado-green)
 ![Badge Oracle ONE](https://img.shields.io/badge/Oracle-ONE-blue)
 ![Badge Alura Latam](https://img.shields.io/badge/Alura-Latam-darkblue)
 
@@ -39,7 +39,7 @@ cd alura-one-challenge
 4. Cuando hayas terminado, haz clic en "Sortear" para asignar el amigo secreto.
 
 ## 🔍 Demo
-[Incluir aquí un enlace a la demo en vivo o capturas de pantalla]
+[Demo online: ](https://glass-source.github.io/alura-one-challenge/)
 
 
 
