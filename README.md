@@ -1,4 +1,4 @@
-# 🎁 Amigo Secreto | ALURA LATAM - Oracle ONE
+# 🎁 ALURA LATAM - Oracle ONE
 
 ![Badge en Desarrollo](https://img.shields.io/badge/status-%20completado-green)
 ![Badge Oracle ONE](https://img.shields.io/badge/Oracle-ONE-blue)
